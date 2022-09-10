@@ -1,0 +1,2 @@
+how to connect MYsql databases in netbeans - https://www.youtube.com/watch?v=HySWyiIfU1M
+addidng rs2xl jar file - https://www.youtube.com/watch?v=GECEE7Q4CFY
